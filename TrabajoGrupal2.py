@@ -23,7 +23,7 @@ while not salida:
         print('FC-FISC-1-8-2016')
         print('Integrantes :')
         print ('Benjamin Rodriguez')
-        print('Samuel Nuñez')
+        print('Samuel Nuñez 8-854-1791')
         print('Susana Gonzalez')
         print('Humberto Carcamo')
         print('Angel diaz')
